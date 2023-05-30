@@ -1,7 +1,7 @@
 # falling-pipe-c64
 A program for the Commodore 64 which creates the sound of the well-known falling pipe meme.  
 
-Source code provided by the wonderful Jeff Birt - his GitHub will be linked here. https://github.com/Jeff-Birt
+Original source code provided by the wonderful Jeff Birt - his GitHub will be linked here. https://github.com/Jeff-Birt
 
 ## What is this program for?
 
